@@ -1,0 +1,100 @@
+.cayetano{
+  font-family: cayetano, verdana;
+}
+
+@font-face{
+  font-family: cayetano;
+  src: url(../fonts/cayetano/CAYETANO.ttf);
+}
+
+.cayetani{
+  font-family: cayetani, verdana;
+}
+
+@font-face{
+  font-family: cayetani;
+  src: url(../fonts/cayetano/CAYETANI.ttf);
+}
+
+
+.skyhook{
+  font-family: skyhook, verdana;
+}
+
+@font-face{
+  font-family: skyhook;
+  src: url(../fonts/SkyhookMono/SkyhookMono.ttf);
+}
+
+.segan{
+  font-family: segan, verdana;
+}
+
+@font-face{
+  font-family: segan;
+  src: url(../fonts/segan/Segan-Light.ttf);
+}
+
+.ridgeregular{
+  font-family: ridgeregular, verdana;
+}
+
+@font-face{
+  /* FULL MAJUSCULE SINON MOCHE ! */
+  font-family: ridgeregular;
+  src: url(../fonts/RidgeRegular/Ridge-Regular.otf);
+}
+
+.rbno2{
+  font-family: rbno2, verdana;
+}
+
+@font-face{
+  font-family: rbno2;
+  src: url(../fonts/RBNo2/RBNo2Light.otf);
+}
+
+.plstk{
+  font-family: plstk, verdana;
+}
+
+@font-face{
+  font-family: plstk;
+  src: url(../fonts/plstk/plstk.ttf);
+}
+
+.nexa{
+  font-family: nexa, verdana;
+}
+
+@font-face{
+  font-family: nexa;
+  src: url(../fonts/nexa/NexaLight.otf);
+}
+
+.multicolore{
+  font-family: multicolore, verdana;
+}
+
+@font-face{
+  font-family: multicolore;
+  src: url(../fonts/multicolore/Multicolore.otf);
+}
+
+.higher{
+  font-family: higher, verdana;
+}
+
+@font-face{
+  font-family: higher;
+  src: url(../fonts/higher_marisa_passos/Higher.ttf);
+}
+
+.gota{
+  font-family: gota, verdana;
+}
+
+@font-face {
+    font-family: gota;
+    src: url(../fonts/gota/GotaLight.otf);
+}

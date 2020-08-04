@@ -1,0 +1,84 @@
+.parallax {
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.shadow{
+  -webkit-box-shadow: 1px 6px 20px -1px rgba(0,0,0,0.75);
+  -moz-box-shadow: 1px 6px 20px -1px rgba(0,0,0,0.75);
+  box-shadow: 1px 6px 20px -1px rgba(0,0,0,0.75);
+}
+
+.colorblue {
+  color:#397be5;
+}
+
+.colorblue2 {
+  color:#2b98e5;
+}
+
+.colorblue3 {
+  color:#21aaff;
+}
+
+.colorblue4 {
+  color:#11c9f7;
+}
+
+.firstImg{
+  /* The image used */
+  background-image: url("../media/img/General2.PNG"); //CHANGE
+
+  /* Set a specific height */
+  height: 500px;
+}
+
+.secondImg{
+  /* The image used */
+  background-image: url("../media/img/Dash.PNG");
+
+  /* Set a specific height */
+  height: 250px;
+}
+
+.thirdImg{
+  /* The image used */
+  background-image: url("../media/img/HyperSpice.PNG");
+
+  /* Set a specific height */
+  height: 250px;
+}
+
+.france{
+  background-image: url("../media/img/fra.jpg");
+
+  height: 500px;
+}
+
+.backgroundJustAFewMoreDoors{
+  background-image: url("../media/img/JAFMD_2.png"); //CHANGE
+}
+
+.backgroundSelfieShooter{
+  background-image: url("../media/img/SelfieShooter.jpg"); //CHANGE
+}
+
+.backgroundEnduromun{
+  background-image: url("../media/img/Enduromun.jpg"); //CHANGE
+}
+
+.backgroundGameJam1{
+  background-image: url("../media/img/dmp-bck.png");
+}
+
+.backgroundGameJam2{
+  background-image: url("../media/img/General2.PNG"); //CHANGE
+}
+
+.footerTeagher{
+    background-color: #111111;
+    color:white;
+}
