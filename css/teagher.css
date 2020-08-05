@@ -12,6 +12,11 @@
   box-shadow: 1px 6px 20px -1px rgba(0,0,0,0.75);
 }
 
+.has-image-centered {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .colorblue {
   color:#397be5;
 }
