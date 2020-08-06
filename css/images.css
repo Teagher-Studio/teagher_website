@@ -1,0 +1,98 @@
+.firstImg{
+  /* The image used */
+  background-image: url("../media/img/First_Collage.PNG");
+
+  /* Set a specific height */
+  height: 1000px;
+}
+
+.secondImg{
+  /* The image used */
+  background-image: url("../media/img/Second_Collage.PNG");
+
+  /* Set a specific height */
+  height: 250px;
+}
+
+.thirdImg{
+  /* The image used */
+  background-image: url("../media/img/Third_Collage.PNG");
+
+  /* Set a specific height */
+  height: 250px;
+}
+
+.fourthImg{
+  /* The image used */
+  background-image: url("../media/img/Fourth_Collage.PNG");
+
+  /* Set a specific height */
+  height: 250px;
+}
+
+.teamImg{
+  /* The image used */
+  background-image: url("../media/img/Team_Collage.jpg");
+
+  /* Set a specific height */
+  height: 250px;
+}
+
+
+.france{
+  background-image: url("../media/img/fra.jpg");
+
+  height: 500px;
+}
+
+.backgroundJAFMD{
+  background-image: url("../media/img/Games/JAFMD_BCK.png");
+}
+
+.backgroundSS{
+  background-image: url("../media/img/Games/SS_BCK.jpg");
+}
+
+.backgroundENDU{
+  background-image: url("../media/img/Games/ENDU_BCK.png");
+}
+
+.backgroundSW{
+  background-image: url("../media/img/soon.jpg");
+}
+
+.backgroundSPSW{
+  background-image: url("../media/img/soon.jpg");
+}
+
+.backgroundDMP{
+  background-image: url("../media/img/Games/DMP_BCK.png");
+}
+
+.backgroundROOS{
+  background-image: url("../media/img/Games/ROOS_BCK.PNG");
+}
+
+.backgroundFFYL{
+  background-image: url("../media/img/Games/FFYL_BCK.png");
+}
+
+.backgroundCWSO{
+  background-image: url("../media/img/Games/CWSO_BCK.png");
+}
+
+.backgroundHAA{
+  background-image: url("../media/img/Games/HAA_BCK.png");
+}
+
+.backgroundINE{
+  background-image: url("../media/img/Games/INE_BCK.png");
+}
+
+.backgroundHIBIPI{
+  background-image: url("../media/img/Games/HIBIPI_BCK.png");
+}
+
+.backgroundBR{
+  background-image: url("../media/img/Games/BR_BCK.png");
+}
