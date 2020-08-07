@@ -38,3 +38,7 @@
     color:white;
 }
 
+.is-vertical-center {
+  display: flex;
+  align-items: center;
+}

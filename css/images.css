@@ -2,8 +2,9 @@
   /* The image used */
   background-image: url("../media/img/First_Collage.PNG");
 
+
   /* Set a specific height */
-  height: 1000px;
+  /*height: 1000px; */
 }
 
 .secondImg{
