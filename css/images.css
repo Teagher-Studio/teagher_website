@@ -15,22 +15,6 @@
   height: 250px;
 }
 
-.thirdImg{
-  /* The image used */
-  background-image: url("../media/img/Third_Collage.PNG");
-
-  /* Set a specific height */
-  height: 250px;
-}
-
-.fourthImg{
-  /* The image used */
-  background-image: url("../media/img/Fourth_Collage.PNG");
-
-  /* Set a specific height */
-  height: 250px;
-}
-
 .teamImg{
   /* The image used */
   background-image: url("../media/img/Team_Collage.jpg");
@@ -38,7 +22,6 @@
   /* Set a specific height */
   height: 250px;
 }
-
 
 .france{
   background-image: url("../media/img/fra.jpg");
