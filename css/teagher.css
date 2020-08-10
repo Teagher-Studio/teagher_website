@@ -42,3 +42,12 @@
   display: flex;
   align-items: center;
 }
+
+.remove-margin{
+    padding: 0px;
+}
+
+.transparent-bg{
+    background-color: transparent;
+    -webkit-box-shadow: 0 0 0;
+}

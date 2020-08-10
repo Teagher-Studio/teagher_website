@@ -6,3 +6,12 @@
   font-family: skyhook;
   src: url(../fonts/SkyhookMono/SkyhookMono.ttf);
 }
+
+.maven{
+  font-family: maven, verdana;
+}
+
+@font-face{
+  font-family: maven;
+  src: url(../fonts/MavenPro/MavenPro-Regular.ttf);
+}

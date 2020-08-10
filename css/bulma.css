@@ -151,7 +151,7 @@ body {
 }
 
 a {
-  color: #00d1b2;
+  color: #4085c9;
   cursor: pointer;
   text-decoration: none;
 }
@@ -547,7 +547,7 @@ a.has-text-primary:hover, a.has-text-primary:focus {
 }
 
 .has-text-info {
-  color: #3273dc !important;
+  color: #4085c9 !important;
 }
 
 a.has-text-info:hover, a.has-text-info:focus {
@@ -8211,7 +8211,7 @@ label.panel-block:hover {
 }
 
 .hero.is-info {
-  background-color: #3273dc;
+  background-color: #4085c9;
   color: #fff;
 }
 
@@ -8279,7 +8279,7 @@ label.panel-block:hover {
 .hero.is-info .tabs.is-boxed li.is-active a, .hero.is-info .tabs.is-boxed li.is-active a:hover, .hero.is-info .tabs.is-toggle li.is-active a, .hero.is-info .tabs.is-toggle li.is-active a:hover {
   background-color: #fff;
   border-color: #fff;
-  color: #3273dc;
+  color: #4085c9;
 }
 
 .hero.is-info.is-bold {
