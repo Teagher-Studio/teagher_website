@@ -20,6 +20,14 @@ randomlinks[17]="https://teagher.itch.io/cabin-warfare-snow-ops";
 randomlinks[18]="https://teagher.itch.io/hide-it-break-it-pay-it";
 randomlinks[19]="https://teagher.itch.io/fight-for-your-light";
 randomlinks[20]="https://teagher.itch.io/die-more-please";
+randomlinks[21]="https://teagher.itch.io/abducktor";
+randomlinks[22]="https://teagher.itch.io/summonlidays";
+randomlinks[23]="https://teagher.itch.io/solo-mode";
+randomlinks[24]="https://teagher.itch.io/de-limited";
+randomlinks[25]="https://teagher.itch.io/liminascent";
+randomlinks[26]="https://teagher.itch.io/ultimate-postal-service";
+randomlinks[27]="https://teagher.itch.io/brick-torture";
+randomlinks[28]="https://globalgamejam.org/games/2024/ramp-agent-simulator-2024-3";
 
 function RandomLink(){
   window.open(randomlinks[Math.floor(Math.random()*randomlinks.length)]);
